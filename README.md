@@ -6,7 +6,7 @@ This project moves beyond descriptive statistics to identify the **predictive dr
 
 ## 🧠 Statistical Methodology & Tools
 *   **Logistic Regression Modeling:** Utilized the Power BI 'Key Influencers' engine to run a regression-based model, identifying **Family History (1.74x likelihood)** and **Stress Scores (>7)** as the primary independent predictors of hypertension.
-*   **Interaction Analysis:** Developed a Heat Map Matrix to analyze the interaction between **Age** and **Smoking Status**, revealing a cumulative risk of **71.8%** in the 60+ smoking cohort.
+*   **Interaction Analysis:** Developed a Heat Map Matrix to analyze the interaction between **Age** and **Smoking Status**, revealing a cumulative risk of **88.7%** in the 60+ smoking cohort.
 *   **Correlation Analysis:** Used Scatter Plots with Trend Lines to confirm that **BMI** and **Stress Levels** act as independent drivers with low multi-collinearity ($r \approx 0$).
 *   **Data Transformation:** Performed data cleaning and standardized clinical age cohorts using **Power Query**.
 *   **DAX:** Developed custom measures for **Group-Specific Prevalence Rates**.
